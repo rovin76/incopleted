@@ -1,0 +1,14 @@
+ul {
+  list-style: none;
+}
+ul li {
+  border: 1px solid red;
+  padding: 10px;
+}
+ul li span {
+  padding: 20px;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
